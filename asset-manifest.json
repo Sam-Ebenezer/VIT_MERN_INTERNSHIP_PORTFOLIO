@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/css/main.46a64c39.css",
+    "main.js": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/js/main.7fa85f82.js",
+    "static/js/787.0adc0c45.chunk.js": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/js/787.0adc0c45.chunk.js",
+    "static/media/bg_image.gif": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/bg_image.3aa602bdc8fffb983e61.gif",
+    "static/media/Website_Home_Page.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Website_Home_Page.01f08f9cde3a0352e46d.PNG",
+    "static/media/bg_image.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/bg_image.7049e164182292cc375f.PNG",
+    "static/media/Client_Table_Axios.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Client_Table_Axios.c78b680812be87a0341b.PNG",
+    "static/media/Train_Animation.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Train_Animation.ce31b444527518b8a947.PNG",
+    "static/media/Demo_Website.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Demo_Website.ac56782b55a3e14742fb.PNG",
+    "static/media/Login_Form.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Login_Form.bff606ee9dbadf956fbd.PNG",
+    "static/media/Color_Picker.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Color_Picker.6ce88fd9b5b793e65626.PNG",
+    "static/media/BS_Registration_Form.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/BS_Registration_Form.406c2c9897a3587c46b8.PNG",
+    "static/media/Instagram.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Instagram.6030a8815dc4d150b086.PNG",
+    "static/media/Portfolio_Icon.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Portfolio_Icon.5d8d0d152e72c18f8846.PNG",
+    "static/media/Github.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Github.ae13f1f483970078d466.PNG",
+    "static/media/Age_Calculator.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Age_Calculator.1a3ad54e10913e64f404.PNG",
+    "static/media/Word_Counter.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Word_Counter.287ea48f5d0264a8f947.PNG",
+    "static/media/Contact_Me.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Contact_Me.841e85ae12708d884a2f.PNG",
+    "static/media/Registration_Form.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Registration_Form.e44ab0a189d3e8011a49.PNG",
+    "static/media/Linkedin.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Linkedin.cc1494dd9c448b2f3ddd.PNG",
+    "static/media/Calculator.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Calculator.a5fc5eaac74f93bc37e8.PNG",
+    "static/media/Facebook.PNG": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/media/Facebook.62d417102cb513748277.PNG",
+    "index.html": "/VIT_MERN_INTERNSHIP_PORTFOLIO/index.html",
+    "main.46a64c39.css.map": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/css/main.46a64c39.css.map",
+    "main.7fa85f82.js.map": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/js/main.7fa85f82.js.map",
+    "787.0adc0c45.chunk.js.map": "/VIT_MERN_INTERNSHIP_PORTFOLIO/static/js/787.0adc0c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a64c39.css",
+    "static/js/main.7fa85f82.js"
+  ]
+}
