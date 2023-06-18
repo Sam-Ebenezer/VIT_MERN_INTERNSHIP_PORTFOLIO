@@ -5,11 +5,11 @@ function Nav(){
     return(
         <nav className="navbar bg-light">
            
-            <a href="/" className="navbar-brand ms-3 ">
+            <Link to="./" className="navbar-brand ms-3 ">
             <img src={Portfolio_Icon} alt="Portfolio_Image" className="icon_class" />
                 <b className="mx-3">Portfolio</b>
                 
-            </a>
+            </Link>
             <div className="navbar nav">
                 <Link to="./" className="nav-link text-dark">Home</Link>
                 <Link to="./About" className="nav-link text-dark">About</Link>
